@@ -20,3 +20,9 @@ Swift server app based on Vapor Web Template.
         <img src="http://img.shields.io/badge/swift-3.1-brightgreen.svg" alt="Swift 3.1">
     </a>
 </p>
+
+# Useful vapor commands :
+     - swift build
+        used to recompile vapor project ( ex: when you add a new package
+     - vapor xcode
+        used to generate .xcproj file
