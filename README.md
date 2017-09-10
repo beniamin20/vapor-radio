@@ -27,4 +27,4 @@ Swift server app based on Vapor Web Template.
      - vapor xcode
         used to generate .xcproj file
 
-Configure your **/Config/mysql.json** file with correct ip, credentials and database name.
+Update **/Config/mysql.json** file with correct ip, credentials and database name.
