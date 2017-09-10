@@ -26,3 +26,5 @@ Swift server app based on Vapor Web Template.
         used to recompile vapor project ( ex: when you add a new package
      - vapor xcode
         used to generate .xcproj file
+
+Configure your **mysql.json** file with correct ip, credentials and database name.
